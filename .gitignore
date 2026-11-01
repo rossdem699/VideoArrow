@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local video files and test artifacts
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.png
+*.jpg
+*.jpeg
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
